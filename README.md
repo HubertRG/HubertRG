@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
+<h1 align="center">HiI'm Hubert</h1>
 <h3 align="center">A computer science student from Poland</h3>
 
-- 💬 My main skills are **writing web applications using React, Express.js and TailWindCSS**
+- My main skills are **writing web applications using React, Express.js and TailWindCSS**
 
-- ⚡ I also have skills in **computer networks and system administration**
+- I also have skills in **computer networks and system administration**
 
-- 🌱 I’m currently learning **Angular, ASP .NET Core and Entity Framework Core**
+- I’m currently learning **Angular, ASP .NET Core and Entity Framework Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
