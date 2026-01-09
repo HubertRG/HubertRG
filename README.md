@@ -1,4 +1,4 @@
-<h1 align="center">HiI'm Hubert</h1>
+<h1 align="center">Hi I'm Hubert</h1>
 <h3 align="center">A computer science student from Poland</h3>
 
 - My main skills are **writing web applications using React, Express.js and TailWindCSS**
