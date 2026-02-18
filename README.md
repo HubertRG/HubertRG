@@ -5,8 +5,6 @@
 
 - I also have skills in **computer networks and system administration**
 
-- I’m currently learning **Angular, ASP .NET Core and Entity Framework Core**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hubertgosik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hubertgosik" height="30" width="40" /></a>
